@@ -25,8 +25,8 @@ const Ball = ({ updateState, options, answer }) => (
                 <span className="ball__number">8</span>
                 )}
             </div>
+            <p>Click to start</p>
         </div>
-        <p>Click the magic ball to start</p>
     </div>
   </div>
 );
